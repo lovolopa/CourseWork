@@ -10,5 +10,5 @@ def main() -> None:
     main_reports()
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

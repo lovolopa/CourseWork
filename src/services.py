@@ -1,6 +1,6 @@
 from typing import Any
 
-from src.utils import logger_setup, write_data, read_xlsx
+from src.utils import logger_setup, read_xlsx, write_data
 
 logger = logger_setup()
 
